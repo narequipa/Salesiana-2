@@ -1,0 +1,151 @@
+[
+{
+"cedula": "1726959925",
+"img": "images/ibadango.png",
+"SobreMi":"Soy una persona amigable y me gusta ayudar a mis compañeros en lo que ellos necesiten. Yo nací en Ecuador, pero a los 9 años fui a vivir en Estados Unidos con mi familia. Cuando yo tenía 20 años regresé a Ecuador. Para aprender el español estudié Idiomas en la Universidad Católica del Ecuador durante 1 año y medio, tiempo en el que mejoré mi vocabulario y pude comunicarme sin tanta dificultad con mi familia y amigos de Ecuador. Empecé mi carrera de Ingeniería de Sistemas en la Universidad Politécnica Salesiana y actualmente estoy cursando el 7mo semestre",
+"MiObjetivos":"Mi primer objetivo es convertirme en un buen ingeniero, para que al egresar de la Universidad pueda encontrar un buen trabajo y así poder darles todo lo necesario a mi mujer y mi hija.",
+"datos":[
+            {"id": "Cedula" ,"campo": "1726959925"},
+            {"id": "Nombres","campo":"Kevin Francisco"},
+            {"id": "Apellido","campo":"Ibadango Hidalgo"},
+            {"id": "Sexo","campo": "Masculino"},
+            {"id": "Direccion","campo":"101 Chipper Rd"},
+            {"id": "Correo","campo":"Phatecko@hotmail.com"}
+],
+
+
+"Semestres":[{
+        "Semestre":[
+       {"Semestre":"1° Semestre","materia":"ALGEBRA LINEAL", "Estado":"APROBADO", "nota":"70"},
+       {"Semestre":"1° Semestre","materia":"ANTROPOLOGIA CRISTIANA", "Estado":"APROBADO", "nota":"75"},
+       {"Semestre":"1° Semestre","materia":"CALCULO DIFERENCIAL", "Estado":"APROBADO", "nota":"74"},
+       {"Semestre":"1° Semestre","materia":"INTRODUCCION A LA INFORMATICA", "Estado":"APROBADO", "nota":"80"},
+       {"Semestre":"1° Semestre","materia":"PROGRAMACION I", "Estado":"APROBADO", "nota":"73"},
+       {"Semestre":"1° Semestre","materia":"TECNICAS DE INVESTIGACION", "Estado":"APROBADO", "nota":"72"}
+                       ]},{
+       "Semestre":[
+       {"Semestre":"2° Semestre","materia":"CALCULO INTEGRAL", "Estado":"APROBADO", "nota":"71"},
+       {"Semestre":"2° Semestre","materia":"ESPIRITUALIDAD JUVENIL SALESIANA", "Estado":"APROBADO", "nota":"70"},
+       {"Semestre":"2° Semestre","materia":"ESTRUCTURA DE DATOS", "Estado":"APROBADO", "nota":"71"},
+       {"Semestre":"2° Semestre","materia":"FISICA", "Estado":"APROBADO", "nota":"73"},
+       {"Semestre":"2° Semestre","materia":"PROGRAMACION II", "Estado":"APROBADO", "nota":"71"},
+       {"Semestre":"2° Semestre","materia":"TECNICAS DE EXPRESION", "Estado":"APROBADO", "nota":"76"}
+                       ]},{
+       "Semestre":[
+       {"Semestre":"3° Semestre","materia":"ECUACIONES DIFERENCIALES", "Estado":"APROBADO", "nota":"76"},
+       {"Semestre":"3° Semestre","materia":"ELECTROTECNIA", "Estado":"APROBADO", "nota":"72"},
+       {"Semestre":"3° Semestre","materia":"METODOS NUMERICOS", "Estado":"APROBADO", "nota":"90"},
+       {"Semestre":"3° Semestre","materia":"PENSAMIENTO SOCIAL DE LA IGLESIA", "Estado":"APROBADO", "nota":"82"},
+       {"Semestre":"3° Semestre","materia":"PROBABILIDAD Y ESTADISTICA", "Estado":"APROBADO", "nota":"70"},
+       {"Semestre":"3° Semestre","materia":"PROGRAMACION III", "Estado":"APROBADO", "nota":"73"}
+
+                       ]},{
+       "Semestre":[
+       {"Semestre":"4° Semestre","materia":"BASE DE DATOS I", "Estado":"APROBADO", "nota":"70"},
+       {"Semestre":"4° Semestre","materia":"ELECTRONICA ANALOGICA", "Estado":"APROBADO", "nota":"70"},
+       {"Semestre":"4° Semestre","materia":"ETICA", "Estado":"APROBADO", "nota":"70"},
+       {"Semestre":"4° Semestre","materia":"MATEMATICAS SUPERIORES", "Estado":"APROBADO", "nota":"71"},
+       {"Semestre":"4° Semestre","materia":"SISTEMAS OPERATIVOS I", "Estado":"APROBADO", "nota":"70"}
+                       ]},{
+       "Semestre":[
+       {"Semestre":"5° Semestre","materia":"BASE DE DATOS II", "Estado":"APROBADO", "nota":"70"},
+       {"Semestre":"5° Semestre","materia":"CONTABILIDAD", "Estado":"APROBADO", "nota":"75"},
+       {"Semestre":"5° Semestre","materia":"ELECTRONICA DIGITAL", "Estado":"APROBADO", "nota":"80"},
+       {"Semestre":"5° Semestre","materia":"SISTEMAS DE INFORMACION I", "Estado":"APROBADO", "nota":"70"},
+       {"Semestre":"5° Semestre","materia":"SISTEMAS OPERATIVOS II", "Estado":"APROBADO", "nota":"70"}
+                        ]},{
+        "Semestre":[
+       {"Semestre":"6° Semestre","materia":"ADMINISTRACION DE PROYECTOS", "Estado":"APROBADO", "nota":"71"},
+       {"Semestre":"6° Semestre","materia":"ARQUITECTURA DE COMPUTADORAS", "Estado":"APROBADO", "nota":"75"},
+       {"Semestre":"6° Semestre","materia":"BASE DE DATOS III", "Estado":"APROBADO", "nota":"86"},
+       {"Semestre":"6° Semestre","materia":"DEONTOLOGIA", "Estado":"APROBADO", "nota":"82"},
+       {"Semestre":"6° Semestre","materia":"REDES I", "Estado":"APROBADO", "nota":"83"},
+       {"Semestre":"6° Semestre","materia":"SISTEMAS DE INFORMACION II", "Estado":"APROBADO", "nota":"73"}
+                       ]}
+       ,{
+        "Semestre":[
+       {"Semestre":"7° Semestre","materia":"PROGRAMACION HYPERMEDIAL", "Estado":"APROBADO", "nota":"75"},
+       {"Semestre":"7° Semestre","materia":"REDES II", "Estado":"APROBADO", "nota":"75"},
+       {"Semestre":"7° Semestre","materia":"TCP/IP", "Estado":"APROBADO", "nota":"75"},
+       {"Semestre":"7° Semestre","materia":"SISTEMAS DE COMUNICACION", "Estado":"APROBADO", "nota":"75"},
+       {"Semestre":"7° Semestre","materia":"TEORIA ELECTROMAGNETICA", "Estado":"APROBADO", "nota":"75"}
+                        ]}
+                    
+
+]
+},{
+"cedula": "1725219669",
+"img": "images/nathaly.jpg",
+"SobreMi":"Me considero una persona confiable, amigable, y honesta. Me gusta la música y la informática, así que al momento de elegir una carrea encontré el modo de estudiar ambas. En la Universidad Politécnica Salesiana sigo a carrera de ingeniería de sistemas, y durante 2 años estudié Solfeo y lecciones de piano en la Academia Musicarte. En la actualidad me encuentro en 7mo semestre",
+"MiObjetivos":"Mi primer objetivo es graduarme de la Universidad y encontrar un buen empleo. Seguir con mis estudios de música para empezar una carrera como solista. Tener tiempo para dedicarme a ambas carreras sin descuidar ninguna de ellas. Encontrar un empleo que me permita dedicar tiempo a mi familia y amigos.",
+"datos":[
+            {"id": "Cedula" ,"campo": "172695992"},
+            {"id": "Nombres","campo":"Nathaly Elizabeth"},
+            {"id": "Apellido","campo":"Arequipa Villagomez "},
+            {"id": "Sexo","campo": "Femenino"},
+            {"id": "Direccion","campo":"La Forestal"},
+            {"id": "Correo","campo":"narequipa_v94@hotmail.com"}
+],
+
+
+"Semestres":[{
+        "Semestre":[
+       {"Semestre":"1° Semestre","materia":"ALGEBRA LINEAL", "Estado":"APROBADO", "nota":"91"},
+       {"Semestre":"1° Semestre","materia":"ANTROPOLOGIA CRISTIANA", "Estado":"APROBADO", "nota":"86"},
+       {"Semestre":"1° Semestre","materia":"CALCULO DIFERENCIAL", "Estado":"APROBADO", "nota":"88"},
+       {"Semestre":"1° Semestre","materia":"INTRODUCCION A LA INFORMATICA", "Estado":"APROBADO", "nota":"85"},
+       {"Semestre":"1° Semestre","materia":"PROGRAMACION I", "Estado":"APROBADO", "nota":"70"},
+       {"Semestre":"1° Semestre","materia":"TECNICAS DE INVESTIGACION", "Estado":"APROBADO", "nota":"78"}
+                       ]},{
+       "Semestre":[
+       {"Semestre":"2° Semestre","materia":"CALCULO INTEGRAL", "Estado":"APROBADO", "nota":"76"},
+       {"Semestre":"2° Semestre","materia":"ESPIRITUALIDAD JUVENIL SALESIANA", "Estado":"APROBADO", "nota":"82"},
+       {"Semestre":"2° Semestre","materia":"ESTRUCTURA DE DATOS", "Estado":"APROBADO", "nota":"70"},
+       {"Semestre":"2° Semestre","materia":"FISICA", "Estado":"APROBADO", "nota":"79"},
+       {"Semestre":"2° Semestre","materia":"PROGRAMACION II", "Estado":"APROBADO", "nota":"72"},
+       {"Semestre":"2° Semestre","materia":"TECNICAS DE EXPRESION", "Estado":"APROBADO", "nota":"88"}
+                       ]},{
+       "Semestre":[
+       {"Semestre":"3° Semestre","materia":"ECUACIONES DIFERENCIALES", "Estado":"APROBADO", "nota":"74"},
+       {"Semestre":"3° Semestre","materia":"ELECTROTECNIA", "Estado":"APROBADO", "nota":"70"},
+       {"Semestre":"3° Semestre","materia":"METODOS NUMERICOS", "Estado":"APROBADO", "nota":"83"},
+       {"Semestre":"3° Semestre","materia":"PENSAMIENTO SOCIAL DE LA IGLESIA", "Estado":"APROBADO", "nota":"80"},
+       {"Semestre":"3° Semestre","materia":"PROBABILIDAD Y ESTADISTICA", "Estado":"APROBADO", "nota":"86"},
+       {"Semestre":"3° Semestre","materia":"PROGRAMACION III", "Estado":"APROBADO", "nota":"74"}
+                       ]},{                
+      
+       "Semestre":[
+       {"Semestre":"4° Semestre","materia":"BASE DE DATOS I", "Estado":"APROBADO", "nota":"70"},
+       {"Semestre":"4° Semestre","materia":"ELECTRONICA ANALOGICA", "Estado":"APROBADO", "nota":"80"},
+       {"Semestre":"4° Semestre","materia":"ETICA", "Estado":"APROBADO", "nota":"82"},
+       {"Semestre":"4° Semestre","materia":"MATEMATICAS SUPERIORES", "Estado":"APROBADO", "nota":"79"},
+       {"Semestre":"4° Semestre","materia":"SISTEMAS OPERATIVOS I", "Estado":"APROBADO", "nota":"77"}
+                        ]},{
+       "Semestre":[
+       {"Semestre":"5° Semestre","materia":"BASE DE DATOS II", "Estado":"APROBADO", "nota":"70"},
+       {"Semestre":"5° Semestre","materia":"CONTABILIDAD", "Estado":"APROBADO", "nota":"75"},
+       {"Semestre":"5° Semestre","materia":"ELECTRONICA DIGITAL", "Estado":"APROBADO", "nota":"79"},
+       {"Semestre":"5° Semestre","materia":"SISTEMAS DE INFORMACION I", "Estado":"APROBADO", "nota":"74"},
+       {"Semestre":"5° Semestre","materia":"SISTEMAS OPERATIVOS II", "Estado":"APROBADO", "nota":"72"}
+                        ]},{
+        "Semestre":[
+       {"Semestre":"6° Semestre","materia":"ADMINISTRACION DE PROYECTOS", "Estado":"APROBADO", "nota":"71"},
+       {"Semestre":"6° Semestre","materia":"ARQUITECTURA DE COMPUTADORAS", "Estado":"APROBADO", "nota":"81"},
+       {"Semestre":"6° Semestre","materia":"BASE DE DATOS III", "Estado":"APROBADO", "nota":"81"},
+       {"Semestre":"6° Semestre","materia":"DEONTOLOGIA", "Estado":"APROBADO", "nota":"85"},
+       {"Semestre":"6° Semestre","materia":"REDES I", "Estado":"APROBADO", "nota":"80"},
+       {"Semestre":"6° Semestre","materia":"SISTEMAS DE INFORMACION II", "Estado":"APROBADO", "nota":"79"}
+                       ]},
+                   {
+        "Semestre":[
+       {"Semestre":"7° Semestre","materia":"PROGRAMACION HYPERMEDIAL", "Estado":"APROBADO", "nota":"71"},
+       {"Semestre":"7° Semestre","materia":"REDES II", "Estado":"APROBADO", "nota":"75"},
+       {"Semestre":"7° Semestre","materia":"TCP/IP", "Estado":"APROBADO", "nota":"81"},
+       {"Semestre":"7° Semestre","materia":"SISTEMAS DE COMUNICACION", "Estado":"APROBADO", "nota":"85"},
+       {"Semestre":"7° Semestre","materia":"TEORIA ELECTROMAGNETICA", "Estado":"APROBADO", "nota":"75"}
+                    ]}
+                    
+
+]
+}
+]
